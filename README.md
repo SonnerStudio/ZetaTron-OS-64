@@ -8,10 +8,23 @@
 
 ![ZetaTron Boot Logo](new_bootscreen_logo.png)
 
-ZetaTron-OS-64 ist ein fortschrittliches 64-Bit-Betriebssystemprojekt, das von SonnerStudio entwickelt wird. Unser Maskottchen, die Hornisse ZetaTron, repräsentiert die Geschwindigkeit und Präzision unseres Systems.
+🚀 **Willkommen in der Zukunft der Betriebssysteme!** 🚀
 
-### Mission und Ziel
-Das ultimative Ziel von ZetaTron-OS-64 ist es, eine universelle, vereinheitlichte Plattform zu schaffen. Es ist so konzipiert, dass es Software von **SonnerStudio**, **Windows**, **macOS**, **Android** und verschiedenen **Linux**-Distributionen nativ innerhalb eines einzigen Betriebssystems nahtlos ausführt.
+**ZetaTron-OS-64** ist das bisher ehrgeizigste und innovativste 64-Bit-Betriebssystemprojekt, das jemals von **SonnerStudio** entwickelt wurde. Die Zeiten von Kompatibilitätsproblemen, virtuellen Maschinen und dem lästigen Wechseln zwischen verschiedenen Plattformen gehören bald der Vergangenheit an.
 
-### Lizenz
-Dieses Projekt ist proprietär und Closed-Source. Alle Rechte sind SonnerStudio und Jan Friske vorbehalten. Details findest du in der [LICENSE.md](LICENSE.md).
+Unser System wird von unserem starken Maskottchen angeführt: Der **Hornisse ZetaTron**. Sie repräsentiert genau das, wofür dieses Betriebssystem steht – unerreichte Geschwindigkeit, pure Präzision und unaufhaltsame Power! 🐝⚡
+
+### 🌍 Mission und das ultimative Ziel
+Stell dir vor, du hättest ein einziges Betriebssystem, das *alles* kann. Unser ultimatives Ziel mit ZetaTron-OS-64 ist es, eine grenzenlose, wahrhaft universelle Plattform zu erschaffen. 
+
+Was bedeutet das konkret? Unser revolutionäres 64-Bit-System ist von Grund auf so konzipiert, dass es Software von allen großen Ökosystemen **vollkommen nativ und nahtlos unter einem Dach** ausführen kann. Dazu gehören:
+- 🔸 **Windows**
+- 🔸 **macOS**
+- 🔸 **Android**
+- 🔸 **Linux-Distributionen**
+- 🔸 **SonnerStudio Software**
+
+Keine Kompromisse mehr. Ein System für alle Anwendungen. 
+
+### 🔒 Lizenz
+Dieses Projekt ist proprietär und Closed-Source. Alle Rechte sind SonnerStudio und Jan Friske vorbehalten. Weitere Details findest du in der [LICENSE.md](LICENSE.md).
