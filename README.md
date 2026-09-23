@@ -1,6 +1,9 @@
 # ZetaTron-OS-64
 
-![ZetaTron Mascot](header-banner-zetatron-collage.jpg)
+![ZetaTron Banner](header-banner-zetatron-collage.jpg)
+<p align="center">
+  <img src="zetatron_mascot.jpg" alt="ZetaTron Mascot" width="300"/>
+</p>
 
 Welcome to the ZetaTron-OS-64 repository by SonnerStudio!
 
