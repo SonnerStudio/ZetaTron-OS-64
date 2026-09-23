@@ -1,7 +1,5 @@
 # ZetaTron-OS-64
 
-![ZetaTron Banner](header-banner-zetatron-collage.jpg)
-
 <p align="right">
   <a href="README.md"><img src="assets/flags/de.svg" width="24"/> Deutsche Version</a>
 </p>
