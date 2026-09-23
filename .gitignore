@@ -15,3 +15,5 @@ assets/*
 assets/flags/*
 !assets/flags/de.svg
 !assets/flags/gb.svg
+
+!README_EN.md
