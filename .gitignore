@@ -1,0 +1,8 @@
+# Ignoriere alle Dateien und Ordner (Quellcode bleibt geheim!)
+*
+
+# Ausnahme: Nur diese spezifischen Dateien dürfen versioniert/hochgeladen werden
+!.gitignore
+!README.md
+!LICENSE.md
+!header-banner-zetatron-collage.jpg
