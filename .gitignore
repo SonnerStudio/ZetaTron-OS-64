@@ -7,3 +7,11 @@
 !LICENSE.md
 !header-banner-zetatron-collage.jpg
 !zetatron_mascot.jpg
+
+!new_bootscreen_logo.png
+!assets/
+assets/*
+!assets/flags/
+assets/flags/*
+!assets/flags/de.svg
+!assets/flags/gb.svg

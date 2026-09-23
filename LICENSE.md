@@ -1,3 +1,19 @@
+# <img src="assets/flags/de.svg" width="24"/> Lizenz (Deutsch)
+
+Copyright (c) 2026 SonnerStudio und Jan Friske
+
+Alle Rechte vorbehalten.
+
+Diese Software und zugehörige Dokumentationsdateien (die "Software") sind proprietär und vertraulich. Kein Teil dieser Software darf in irgendeiner Form oder mit irgendwelchen Mitteln reproduziert, verbreitet oder übertragen werden, ohne die vorherige schriftliche Genehmigung von SonnerStudio und Jan Friske.
+
+Sie dürfen Kopien der Software nicht verwenden, kopieren, modifizieren, zusammenführen, veröffentlichen, verbreiten, unterlizenzieren und/oder verkaufen.
+
+DIE SOFTWARE WIRD "WIE BESEHEN" BEREITGESTELLT, OHNE GARANTIE JEGLICHER ART. UNTER KEINEN UMSTÄNDEN SIND DIE AUTOREN ODER URHEBERRECHTSINHABER FÜR ANSPRÜCHE, SCHÄDEN ODER ANDERE HAFTUNGEN VERANTWORTLICH.
+
+---
+
+# <img src="assets/flags/gb.svg" width="24"/> License (English)
+
 Copyright (c) 2026 SonnerStudio and Jan Friske
 
 All rights reserved.
